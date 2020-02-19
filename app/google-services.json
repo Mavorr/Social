@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "682621104137",
+    "firebase_url": "https://gamerdiary-befbd.firebaseio.com",
+    "project_id": "gamerdiary-befbd",
+    "storage_bucket": "gamerdiary-befbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682621104137:android:58107f7de71ec7bd7208d8",
+        "android_client_info": {
+          "package_name": "mkasperski.com.gamerdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682621104137-m26uvk7b2ftgnu7iptmr86o5rbvdf8ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mkasperski.com.gamerdiary",
+            "certificate_hash": "965b9b44a86759e2236ff8b83190b2860415134a"
+          }
+        },
+        {
+          "client_id": "682621104137-ltnu2mlu0o8u5jkmvdn4aa7mapl82vlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBakMI0ZacOpT8APgBI_u9Gjd3p6uecO7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682621104137-ltnu2mlu0o8u5jkmvdn4aa7mapl82vlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

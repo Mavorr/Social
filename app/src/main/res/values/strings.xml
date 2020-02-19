@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GamerDiary</string>
+    <string name="google_title_text" />
+    <string name="signed_out" />
+    <string name="sign_out" />
+    <string name="disconnect" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
